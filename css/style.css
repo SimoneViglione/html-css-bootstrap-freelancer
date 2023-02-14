@@ -39,10 +39,23 @@ main {
 
 }
 
-.debug .inner_col {
+.inner_col {
     max-width: 100%;
 }
 
 .row img {
     width: 100%;
+}
+
+.row img:hover {
+    background-color: rgb(26, 188, 156, 0.5);
+}
+
+.px-7 {
+    padding: 0 7rem;
+}
+
+.ms_white_button {
+    border: solid 1px white;
+    margin: 0 700px;
 }
