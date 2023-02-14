@@ -1,0 +1,17 @@
+:root {
+    --greyblue: rgb(44, 62, 80);
+    --green: rgb(26, 188, 156);
+}
+
+.ms_bg_greyblue {
+    background-color: var(--greyblue);
+}
+
+.ms_bg_green {
+    background-color: var(--green);
+}
+
+.img_box img {
+    width: 10%;
+}
+
