@@ -7,11 +7,39 @@
     background-color: var(--greyblue);
 }
 
+.ms_color_greyblue {
+    color: var(--greyblue);
+}
+
 .ms_bg_green {
     background-color: var(--green);
 }
 
-.img_box img {
-    width: 10%;
+header {
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
+main {
+    padding-top: 70px;
+}
+
+.img_box img {
+    width: 150px;
+}
+
+.ms_star_decor i::after {
+
+}
+
+.ms_star_decor i::before {
+
+}
+
+.debug .col-12 {
+    height: 100px;
+    border: dashed rebeccapurple;
+}
