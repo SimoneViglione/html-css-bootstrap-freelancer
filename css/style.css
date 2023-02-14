@@ -15,6 +15,10 @@
     background-color: var(--green);
 }
 
+.ms_bg_blue {
+    background-color: rgb(58, 84, 109);
+}
+
 header {
     height: 70px;
     width: 100%;
@@ -58,4 +62,10 @@ main {
 .ms_white_button {
     border: solid 1px white;
     margin: 0 700px;
+}
+
+.ms_green_button {
+    background-color: var(--green);
+    max-width: 60px;
+    padding: 8px 12px;
 }
