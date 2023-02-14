@@ -39,7 +39,10 @@ main {
 
 }
 
-.debug .col-12 {
-    height: 100px;
-    border: dashed rebeccapurple;
+.debug .inner_col {
+    max-width: 100%;
+}
+
+.row img {
+    width: 100%;
 }
