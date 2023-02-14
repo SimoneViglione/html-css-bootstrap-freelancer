@@ -73,3 +73,9 @@ main {
     max-width: 60px;
     padding: 8px 12px;
 }
+
+.social i {
+    border: solid 1px white;
+    padding: 10px;
+    font-size: larger;
+}
