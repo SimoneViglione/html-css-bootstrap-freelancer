@@ -15,6 +15,10 @@
     background-color: var(--green);
 }
 
+.ms_color_green {
+    color: var(--green);
+}
+
 .ms_bg_blue {
     background-color: rgb(58, 84, 109);
 }
